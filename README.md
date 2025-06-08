@@ -1,7 +1,7 @@
 ## Oi sou Felipe 👋
 
-- 🔭 Hoje trabalho com ciência de dados
-- 🌱 Estudando Python, SQL, Pandas
+- 🔭 Desenvolvedor de Software
+- 🌱 React, Java, SQL, Python
 - 👯 Projetos Reais
 
 

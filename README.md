@@ -1,27 +1,33 @@
-## Oi sou Felipe 👋
 
-- 🔭 Desenvolvedor de Software
-- 🌱 React, Java, SQL, Python
-- 👯 Projetos Reais
+<h2 align="center">👨‍💻 Felipe Carvalho</h2>
+<p align="center">
+Desenvolvedor Fullstack • Foco em React, Node.js e Ciência de Dados
+</p>
 
+---
 
-<div>
-<a href="https://beacons.ai/felipecsousa2000">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipecsousa2000&theme=gruvbox&show_icons=true&hide_border=true&count_private=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecsousa2000&theme=gruvbox&show_icons=true&hide_border=true&layout=compact"/>
-</a>
-</div>
-<div style="display: inline_block"><br>
-<img align="center" alt="teste-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="teste-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-<img align="center" alt="teste-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="teste-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="teste-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="teste-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+### 🚀 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mysql,git,github,vscode" />
+</p>
 
-##
-<div>
-<a href="mailto:contato@user.tech"><img src="https://img.shields.io/badge/-Gmail-%23333333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/user-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+---
+
+### 📊 Estatísticas
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipecsousa2000&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=felipecsousa2000&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecsousa2000&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 📫 Vamos nos conectar!
+<p align="center">
+  <a href="https://linkedin.com/in/felipecsousa2000"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://beacons.ai/felipecsousa2000"><img src="https://img.shields.io/badge/Beacons.ai-000000?style=for-the-badge&logo=beacons&logoColor=white" /></a>
+  <a href="mailto:felipecsousa2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>

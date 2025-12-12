@@ -1,14 +1,14 @@
 
 <h2 align="center">👨‍💻 Felipe Carvalho</h2>
 <p align="center">
-Desenvolvedor Fullstack • Foco em React, Node.js e Ciência de Dados
+Desenvolvedor Fullstack
 </p>
 
 ---
 
 ### 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mysql,java" />
 </p>
 
 ---

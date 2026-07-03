@@ -30,3 +30,12 @@ Desenvolvedor Fullstack
   <a href="https://www.linkedin.com/in/felipe-carvalho-a6ab54193/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipecsousa2000/felipecsousa2000/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felipecsousa2000/felipecsousa2000/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/felipecsousa2000/felipecsousa2000/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>

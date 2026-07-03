@@ -96,16 +96,6 @@ Acredito que compartilhar conhecimento é uma das melhores formas de transformar
 
 ---
 
-# 🏆 Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&column=4"/>
-
-</div>
-
----
-
 # 🌐 Vamos nos conectar
 
 <p align="center">

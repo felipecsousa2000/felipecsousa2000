@@ -1,8 +1,6 @@
-# 👨‍💻 Olá, eu sou [Seu Nome]
-
 <div align="center">
 
-# 🌑 Welcome to my GitHub
+# <h1 align="center">Felipe</h1>
 
 **Professor de Desenvolvimento de Sistemas • Full Stack Developer • Cybersecurity • DevOps**
 
@@ -12,7 +10,7 @@
 
 ---
 
-# 🚀 Sobre mim
+# Sobre mim
 
 Sou **Professor de Desenvolvimento de Sistemas** apaixonado por tecnologia, inovação e ensino. Atuo como **Desenvolvedor Full Stack**, criando aplicações modernas, escaláveis e de alta performance.
 
@@ -22,7 +20,7 @@ Acredito que compartilhar conhecimento é uma das melhores formas de transformar
 
 ---
 
-# 💼 Áreas de Atuação
+# Áreas de Atuação
 
 * 👨‍🏫 Professor de Desenvolvimento de Sistemas
 * 💻 Desenvolvimento Full Stack
@@ -34,7 +32,7 @@ Acredito que compartilhar conhecimento é uma das melhores formas de transformar
 
 ---
 
-# 🛠️ Tecnologias
+# Tecnologias
 
 ## Linguagens
 
@@ -74,19 +72,7 @@ Acredito que compartilhar conhecimento é uma das melhores formas de transformar
 
 ---
 
-# 📊 Estatísticas GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 Sequência de Contribuições
+# Sequência de Contribuições
 
 <div align="center">
 
@@ -96,7 +82,7 @@ Acredito que compartilhar conhecimento é uma das melhores formas de transformar
 
 ---
 
-# 🌐 Vamos nos conectar
+# Vamos nos conectar
 
 <p align="center">
 
@@ -112,20 +98,4 @@ Acredito que compartilhar conhecimento é uma das melhores formas de transformar
 <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
-
----
-
-<div align="center">
-
-### 💡 *"A tecnologia muda o mundo. O conhecimento transforma pessoas."*
-
-⭐ Obrigado pela visita ao meu perfil!
-
-</div>
-
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/felipecsousa2000/felipecsousa2000/main/github-metrics.svg" />
 </p>
